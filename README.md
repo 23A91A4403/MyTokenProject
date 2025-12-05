@@ -109,7 +109,7 @@ transferFrom(address from, address to, uint256 amount) → returns bool
 
 ### 5. Approve & TransferFrom Test
 ![Approve](ScreenShots/APPROVE.png)
-![Transferform](Screenshots/TRANSFERFORM.png)
+![Transferform](ScreenShots/TRANSFERFORM.png)
 
 
 
