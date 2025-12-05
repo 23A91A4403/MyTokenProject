@@ -88,27 +88,27 @@ transferFrom(address from, address to, uint256 amount) → returns bool
 ## Screenshots
 
 ### 1. Compilation Success
-![Compilation](Screenshots/CompilationOfMyToken.sol.png)
+![Compilation](ScreenShots/CompilationOfMyToken.sol.png)
 
 ### 2. Deployment
-![Deployment](Screenshots/Deployed_Contracts(1).png)
+![Deployment](ScreenShots/Deployed_Contracts(1).png)
 
 ### 3. Token Info (name, symbol, decimals, total supply)
-![Token Info-name](Screenshots/Deployed_Contracts(Name).png)
-![Token Info-symbol](Screenshots/Deployed_Contracts(Symbol).png)
-![Token Info-decimal](Screenshots/Deployed_Contracts(decimal).png)
-![Token Info-totalSupply](Screenshots/Deployed_Contracts(totalSupply).png)
-![Token Info-getTokenInfo](Screenshots/getTokenInfo.png)
-![Token Info-getTotalSupply](Screenshots/getTotalSupply.png)
-![Token Info-BalanceOf](Screenshots/BalanceOf.png)
+![Token Info-name](ScreenShots/Deployed_Contracts(Name).png)
+![Token Info-symbol](ScreenShots/Deployed_Contracts(Symbol).png)
+![Token Info-decimal](ScreenShots/Deployed_Contracts(decimal).png)
+![Token Info-totalSupply](ScreenShots/Deployed_Contracts(totalSupply).png)
+![Token Info-getTokenInfo](ScreenShots/getTokenInfo.png)
+![Token Info-getTotalSupply](ScreenShots/getTotalSupply.png)
+![Token Info-BalanceOf](ScreenShots/BalanceOf.png)
 
 
 
 ### 4. Transfer Test
-![Transfer](Screenshots/TRANSFER.png)
+![Transfer](ScreenShots/TRANSFER.png)
 
 ### 5. Approve & TransferFrom Test
-![Approve](Screenshots/APPROVE.png)
+![Approve](ScreenShots/APPROVE.png)
 ![Transferform](Screenshots/TRANSFERFORM.png)
 
 
