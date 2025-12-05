@@ -94,13 +94,13 @@ transferFrom(address from, address to, uint256 amount) → returns bool
 ![Deployment](screenshots/Deployed_Contracts(1).png)
 
 ### 3. Token Info (name, symbol, decimals, total supply)
-![Token Info](screenshots/Deployed_Contracts(Name).png)
-![Token Info](screenshots/Deployed_Contracts(Symbol).png)
-![Token Info](screenshots/Deployed_Contracts(decimal).png)
-![Token Info](screenshots/Deployed_Contracts(totalSupply).png)
-![Token Info](screenshots/getTokenInfo.png)
-![Token Info](screenshots/getTotalSupply.png)
-![Token Info](screenshots/BalanceOf.png)
+![Token Info-name](screenshots/Deployed_Contracts(Name).png)
+![Token Info-symbol](screenshots/Deployed_Contracts(Symbol).png)
+![Token Info-decimal](screenshots/Deployed_Contracts(decimal).png)
+![Token Info-totalSupply](screenshots/Deployed_Contracts(totalSupply).png)
+![Token Info-getTokenInfo](screenshots/getTokenInfo.png)
+![Token Info-getTotalSupply](screenshots/getTotalSupply.png)
+![Token Info-BalanceOf](screenshots/BalanceOf.png)
 
 
 
@@ -109,7 +109,7 @@ transferFrom(address from, address to, uint256 amount) → returns bool
 
 ### 5. Approve & TransferFrom Test
 ![Approve](screenshots/APPROVE.png)
-![Token Info](screenshots/TRANSFERFORM.png)
+![Transferform](screenshots/TRANSFERFORM.png)
 
 
 
